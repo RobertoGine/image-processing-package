@@ -12,7 +12,7 @@ setup(
     description="image_processing_package",
     long_description=page_desciption,
     long_description_content_type="text/markdown",
-    url="https://github.com/username/package_name",
+    url="https://github.com/RobertoGine/image-processing-package.git",
     author="Roberto",
     license="MIT",
     packages=find_packages(),
